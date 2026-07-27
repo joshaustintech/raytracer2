@@ -18,7 +18,7 @@ but sadly never got past making spheres.
 
 3 years later I wanted to give it another attempt, but this time deliberately forego the use of LLM assistance
 in the IDE and terminal, even for fancy autocomplete. I use enough of that for work anyway! I firmly believe that
-[my brain was made to struggle](https://ericadhawan.substack.com/p/your-brain-was-built-to-struggle) and that
+[my brain was built to struggle](https://ericadhawan.substack.com/p/your-brain-was-built-to-struggle) and that
 through struggle I multiply my understanding. I want to get better at Rust and I've always been fascinated with
 computer graphics ever since trying out Blender for the first time in 2004.
 
