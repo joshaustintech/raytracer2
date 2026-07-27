@@ -1,4 +1,4 @@
-# raytracer2 [![brainmade logo](img/brainmade.png)](https://brainmade.org/)
+# raytracer2 [![brainmade logo](img/brainmade.png)](https://brainmade.org/) [![Rust](https://github.com/joshaustintech/raytracer2/actions/workflows/rust.yml/badge.svg)](https://github.com/joshaustintech/raytracer2/actions/workflows/rust.yml)
 CPU raytracer
 
 # Introduction
