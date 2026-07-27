@@ -4,7 +4,12 @@ CPU raytracer
 # Introduction
 
 ## Current Progress
-Project scaffolding
+"Hello World" gradient image generated. Images are saved by sending `stdout` to a file like so:
+```sh
+./target/debug/raytracer2 > helloworld.ppm
+```
+
+![hello world image](img/helloworld.jpg)
 
 ## Background
 In 2023 I started writing [a simple CPU raytracer](https://github.com/joshaustintech/raytracer)
