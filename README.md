@@ -4,10 +4,7 @@ CPU raytracer
 # Introduction
 
 ## Current Progress
-"Hello World" gradient image generated. Images are saved by sending `stdout` to a file like so:
-```sh
-./target/debug/raytracer2 > helloworld.ppm
-```
+"Hello World" gradient image generated. Images are saved automatically, logging goes to `stdout`.
 
 ![hello world image](img/helloworld.jpg)
 
@@ -19,11 +16,22 @@ stimulating to pick up and then be able to drop at a moment's notice to help wit
 I was using [Ray Tracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 but sadly never got past making spheres.
 
-3 years later I wanted to give it another attempt, but this time deliberately forego the use of LLM assistance,
-even for fancy autocomplete. I use enough of that for work anyway! I firmly believe that
+3 years later I wanted to give it another attempt, but this time deliberately forego the use of LLM assistance
+in the IDE and terminal, even for fancy autocomplete. I use enough of that for work anyway! I firmly believe that
 [my brain was made to struggle](https://ericadhawan.substack.com/p/your-brain-was-built-to-struggle) and that
 through struggle I multiply my understanding. I want to get better at Rust and I've always been fascinated with
 computer graphics ever since trying out Blender for the first time in 2004.
+
+## Stuff I want to accomplish this time
+- Rust stdlib only, no 3rd party crates
+- Finish book 1
+- Multithreading
+- SIMD
+- At least start on book 2
+- Triangles
+- Render a Cornell box scene
+- Stretch goal: file imports
+- Stretch goal: Stanford dragon scene
 
 ## Why the Brainmade mark?
 I believe in explicit disclosure regarding machine-generated code in both directions. If I have a machine generating
